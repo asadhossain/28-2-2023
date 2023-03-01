@@ -7,7 +7,17 @@
     <title>PHP CODES</title>
 </head>
 <body>
-    <h1>THis is fast line</h1>
+    <h1>This is GPA Calculator</h1>
+
+    <?php
+
+    
+    switch 
+
+
+
+
+    ?>
     
 </body>
 </html>
